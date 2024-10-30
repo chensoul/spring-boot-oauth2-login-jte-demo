@@ -40,6 +40,12 @@
             <artifactId>jte-spring-boot-starter-3</artifactId>
             <version>${jte.version}</version>
         </dependency>
+
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
+        </dependency>
     </dependencies>
 
     <build>
