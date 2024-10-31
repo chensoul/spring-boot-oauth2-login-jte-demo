@@ -6,18 +6,16 @@ and GitHub.
 
 ## Features
 
-- Custom login page using JTE and Tailwind CSS
-- Traditional username/password authentication
-- OAuth2 authentication with Google and GitHub
-- Secure logout functionality
-- CSRF protection
+- Spring Boot 3
+- Spring Security OAuth2
+- JTE and Tailwind CSS
 
 ## Prerequisites
 
 - Java 17+
 - Maven
-- Google account (for Google OAuth)
-- GitHub account (for GitHub OAuth)
+- Google OAuth account
+- GitHub OAuth account
 
 ## Quick Start
 
